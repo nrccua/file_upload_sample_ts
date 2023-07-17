@@ -4,10 +4,10 @@ import fetch from "cross-fetch";
 import * as fs from "fs";
 import * as FormData from "form-data";
 
-const USERNAME = "hector.sanchez.service@nrccua.org";
-const PASSWORD = "BG39wBxZi8DW!7YS";
-const ORGANIZATION_UID = "0ec47cfc-a5cd-4dc8-b27b-3fca9f393d8f";
-const URL = "https://api-encoura-alpha-stg.enc-np.com/v1";
+const USERNAME = "";
+const PASSWORD = "";
+const ORGANIZATION_UID = "";
+const URL = "";
 
 interface AuthResponse {
   sessionToken: string;
